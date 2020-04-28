@@ -14,6 +14,6 @@ Each script shhould have a test build within the script. Therefore, these scriup
 
 * Repo owner or admin
 
-owen.powell@roslin.ed.ac.uk
+owen.m.powell@gmail.com
 
 * Other community or team contact
